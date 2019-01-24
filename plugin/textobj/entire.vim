@@ -28,8 +28,8 @@ endif
 
 call textobj#user#plugin('entire', {
 \      '-': {
-\        'select-a': 'ae',  'select-a-function': 'textobj#entire#select_a',
-\        'select-i': 'ie',  'select-i-function': 'textobj#entire#select_i'
+\        'select-a': 'az',  'select-a-function': 'textobj#entire#select_a',
+\        'select-i': 'iz',  'select-i-function': 'textobj#entire#select_i'
 \      }
 \    })
 
